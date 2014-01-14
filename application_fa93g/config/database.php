@@ -49,9 +49,9 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'globalco_storep1';
-$db['default']['password'] = 'AKJI*A&&^AJHA&AD2322-2321j&';
-$db['default']['database'] = 'globalco_storeafja13';
+$db['default']['username'] = '';
+$db['default']['password'] = '';
+$db['default']['database'] = '';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = 'aiap97af_';
 $db['default']['pconnect'] = TRUE;
