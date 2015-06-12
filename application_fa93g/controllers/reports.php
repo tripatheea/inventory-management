@@ -155,12 +155,6 @@
 					// Libraries
 					$this->load->library('dateconverter');
 					
-					$from = $this->input->post('from');
-					$to = $this->input->post('to');
-					
-					// VALIDATE. AND SANITIZE.
-					// VALIDATE. AND SANITIZE.
-					
 					$from = explode('-', $from);
 					$to = explode('-', $to);
 					
